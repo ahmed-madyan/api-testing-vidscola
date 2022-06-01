@@ -1,8 +1,8 @@
-# Editor Configurations
+# Editor Configurations #
 /.idea/
 
-# Output Files
+# Output Files #
 /target/
 
-# Module Settings File
+# Module Settings File #
 *.iml
